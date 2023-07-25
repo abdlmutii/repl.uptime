@@ -1,6 +1,6 @@
 # repl.uptime
 
-repl.uptime is a Go package that keeps your Replit (repl) project continuously uptimed, ensuring 24/7 availability with no rest. It is a Go version inspired by the npm package [npm repl.uptime](https://www.npmjs.com/package/repl.uptime).
+repl.uptime is a Go package that keeps your Replit (repl) project continuously uptimed, ensuring 24/7 availability with no rest. It is a Go version inspired by the npm package [repl.uptime](https://www.npmjs.com/package/repl.uptime).
 
 ## Usage
 
@@ -12,7 +12,7 @@ To use repl.uptime, follow these two simple steps:
 {
   "debug": false,
   "api": true,
-  "port": 3000,
+  "port": "3000",
   "path": "/"
 }
 ```
